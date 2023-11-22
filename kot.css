@@ -1,0 +1,25 @@
+body{
+    background-color:cadetblue;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.op3{
+    transition-duration: 2s;
+}
+.op3:hover{
+    color:black
+}
+
+.hp1{
+    transition-duration: 2s;
+}
+.hp1:hover{
+    color:black
+}
+.hy5{
+    transition-duration: 2s;
+}
+.hy5:hover{
+    color: black;
+}
